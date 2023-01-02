@@ -1,5 +1,5 @@
 # ETH-Batch-Import-Privatekey-Brute-Force
-A simple python script that generate random privatekeys and check if there's Ether in the account.
+A simple python script that generates random privatekeys and checks if there is an ETH balance in the account.
 
 ## **Quick Start**
 Ensure Python3 is installed, eg. `$ sudo apt install python3 python3-pip` for debian/ubuntu `$ sudo pacman -Sy python3-pip` for Arch
