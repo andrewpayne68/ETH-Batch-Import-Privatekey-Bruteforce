@@ -2,8 +2,8 @@
 A simple python script that generate random privatekeys and check if there's Ether in the account.
 # Kizmeow-OpenSea-and-Etherscan-Discord-Bot
 
-Requirements
------------------
+# Requirements
+
 **environment**
 
 + Python > 3.8
@@ -12,8 +12,13 @@ Requirements
 
 + web3.py
 
-Usage
------------------
+# Web3.py Library
+You can install the Web3.py library with pip in your terminal like this:
+```
+$ pip install web3
+```
+# Usage
+
 change infura api url in `main.py` and run it.
 
 This is only a concept. According to Etherscan, there are 191,119,471 eth holders currently. 
