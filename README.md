@@ -1,4 +1,4 @@
-# ETH-Batch-Import-Privatekey-Brute-Force
+# ETH-Privatekey-BruteForce
 A simple python script that generates random privatekeys and checks if there is an ETH balance in the account.
 
 ### **Quick Start**
